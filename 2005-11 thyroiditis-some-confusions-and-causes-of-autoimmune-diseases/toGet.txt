@@ -1,13 +1,18 @@
 10- https://pubmed.ncbi.nlm.nih.gov/8766884/
+    https://scispace.com/papers/relationship-between-autoimmune-thyroid-disease-rand-1pka3enzd2
 12- https://pubmed.ncbi.nlm.nih.gov/7750518/
+
 13- https://pubmed.ncbi.nlm.nih.gov/7745947/
 29- https://pmc.ncbi.nlm.nih.gov/articles/PMC1541533/
-33- https://pubmed.ncbi.nlm.nih.gov/3691484/
-43- https://pubmed.ncbi.nlm.nih.gov/7044629/
+
 
 japanese
 14- https://pubmed.ncbi.nlm.nih.gov/8299282/
+    https://scispace.com/papers/a-case-of-hashimoto-s-encephalopathy-with-a-relapsing-course-2foyne1y65
+    https://www.semanticscholar.org/paper/%5BA-case-of-Hashimoto%27s-encephalopathy-with-a-course-Ishii-Hayashi/9260c5f7042021cd9d758abd680951d08db36470
+
 18- https://pubmed.ncbi.nlm.nih.gov/7927185/
+    https://scispace.com/papers/screening-for-thyroid-dysfunction-in-adults-residing-in-3vxxaimr9r
 
 german
 17- https://pubmed.ncbi.nlm.nih.gov/10526630/
@@ -22,3 +27,4 @@ czech
 
 french
 42- https://pubmed.ncbi.nlm.nih.gov/12448334/
+    https://www.em-consulte.com/article/93000/article/hypothyroidies-liees-aux-surcharges-iodees
