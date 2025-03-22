@@ -1,24 +1,14 @@
-Russian
-4- https://pubmed.ncbi.nlm.nih.gov/4366934/
+38- Circ Shock. 1990 Aug;31(4):407-18. Capillary narrowing in hemorrhagic shock is rectified by hyperosmotic saline-dextran
+reinfusion. Mazzoni MC, Borgstrom P, Intaglietta M, Arfors KE.
 
-6- https://pubmed.ncbi.nlm.nih.gov/21079578/
-
-10- https://pubmed.ncbi.nlm.nih.gov/804034/
-
-15- https://pubmed.ncbi.nlm.nih.gov/13635463/
-
-25- https://pubmed.ncbi.nlm.nih.gov/14131019/
-
-28- https://pubmed.ncbi.nlm.nih.gov/8628449/
-
-33- https://pubmed.ncbi.nlm.nih.gov/2940781/
-
-35- https://pubmed.ncbi.nlm.nih.gov/1697790/
-
-38- Biofizika. 1967 Nov-Dec;12(6):1085-6. [Increase in unsaturated fatty acids during tumor growth]. [Article in Russian]
+41- Biofizika. 1967 Nov-Dec;12(6):1085-6. [Increase in unsaturated fatty acids during tumor growth]. [Article in Russian]
 NeÄfakh EA, Lankin VZ.
 
-german
-47- https://pubmed.ncbi.nlm.nih.gov/4393283/
+51- Enzymologia. 1966 Apr 30;30(4):237-42. [Occurrence of pyridine nucleotide transhydrogenase in mitochondria of various
+ascites tumors] [Article in German] Salvenmoser F, Kramar R, Seelich F.
 
-51- https://pubmed.ncbi.nlm.nih.gov/4366934/
+64- https://pubmed.ncbi.nlm.nih.gov/13918168/
+https://japanlinkcenter.org/JST.Journalarchive/kjm1952/11.25?from=PubMed
+
+68- https://pubmed.ncbi.nlm.nih.gov/1511500/
+
