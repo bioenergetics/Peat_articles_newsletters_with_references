@@ -4,13 +4,11 @@
 ??- https://pubmed.ncbi.nlm.nih.gov/11573063/
     https://www.minervamedica.it/en/journals/minerva-pediatrics/article.php?cod=R15Y2001N04A0271
 
-
 ??- Nigerian J. Biochem. Mol Biology 23(1): 12-14, 2008. Depleted blood
 fructose in diabetes. Osuagwu CG and Madumere HEO.
 
-
-
 ???- https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.24.1_supplement.562.1
+
 ??- https://pubmed.ncbi.nlm.nih.gov/11082431/
     https://www.sciencedirect.com/science/article/abs/pii/S0022356524389967
 
@@ -18,13 +16,11 @@ french
 ??- https://pubmed.ncbi.nlm.nih.gov/1221903/
     https://www.jstor.org/stable/45122933 
     
-    
 ??- https://pubmed.ncbi.nlm.nih.gov/6489578/
 
 japanese
 ??- https://pubmed.ncbi.nlm.nih.gov/9816911/
     https://scispace.com/papers/involvement-of-tau-protein-kinase-in-amyloid-beta-induced-3xw0owfuxq
-
 
 italian
 ??- https://pubmed.ncbi.nlm.nih.gov/2099997/
