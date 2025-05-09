@@ -5,6 +5,7 @@ Archive of Raymond F. Peat's articles and newsletters with the associated refere
 
 Each article/newsletter has its own folder, where the references are named in order of appearance.
 - Duplicated references in the same article are skipped 
+- Folders starting with the letter 'x' have only been through the first phase
 
 **Development Phases**
 
