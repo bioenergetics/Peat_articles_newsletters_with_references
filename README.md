@@ -4,8 +4,9 @@ Archive of Raymond F. Peat's articles and newsletters with the associated refere
 **Structure**
 
 Each article/newsletter has its own folder, where the references are named in order of appearance.
-- Duplicated references in the same article are skipped 
+- Duplicate references in the same article are skipped 
 - Folders starting with the letter 'x' have only been through the first phase
+- Folders starting with the letter 'y' have no reference section but they might have references in the text
 
 **Development Phases**
 
