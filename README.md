@@ -1,5 +1,4 @@
-# Description
-Archive of Raymond F. Peat's articles and newsletters with the associated references.
+# Archive Of Raymond F. Peat's Articles And Newsletters With Their References
 
 **Structure**
 
