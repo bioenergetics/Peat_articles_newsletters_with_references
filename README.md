@@ -8,9 +8,20 @@ Naming convention for the references
 - Duplicate references for the same article or newsletter are skipped 
 - Folders starting with the letter 'x' have only been through the first phase (see next point)
 
-**Development Phases**
+# **Development Phases - Changelog**
 
-The development is split into 3 phases
+## Current
+- Adding every articles and references 
+
+## Future Release
+### **1.0** 
+> **⚠️ WARNING:** Not Released Yet
 - Adding references found through sci-hub (https://sci-hub.st/).
+
+### **2.0**
+> **⚠️ WARNING:** Not Released Yet
 - Adding references requiring to search old publications through Annas-Archive (https://annas-archive.org/)
-- Adding references not found on sci-hub and annas-archive, if possible
+
+### **3.0**
+> **⚠️ WARNING:** Not Released Yet
+- Adding references not found on sci-hub and annas-archive, if possible<a name="20.0.0-rc.0"></a>
