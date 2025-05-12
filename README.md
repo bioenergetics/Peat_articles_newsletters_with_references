@@ -1,12 +1,11 @@
-# Archive Of Raymond F. Peat's Articles And Newsletters With Their References
+# Archive Of Raymond F. Peat's Work With Their References
 
-Each article/newsletter has its own folder, where the references are named in order of appearance.
-- Articles and newsletters without a reference section ar saved aspdf file
-- Only Articles and newsletters with 
+Each work has its own folder, where the references are named in order of appearance.
 
 Naming convention for the references
 - Duplicate references for the same article or newsletter are skipped 
 - Folders starting with the letter 'x' have only been through the first phase (see next point)
+- Folders starting with the letter 'y' have no reference section but they might have references in the text
 
 # **Development Phases - Changelog**
 
