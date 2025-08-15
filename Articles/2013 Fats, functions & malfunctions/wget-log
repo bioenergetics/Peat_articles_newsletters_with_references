@@ -1,0 +1,11 @@
+--2025-08-15 20:34:26--  http://www.neoplasma.sk/archiv/download_file.php?session=1755282836
+Résolution de www.neoplasma.sk (www.neoplasma.sk)… 109.74.157.21
+Connexion à www.neoplasma.sk (www.neoplasma.sk)|109.74.157.21|:80… connecté.
+requête HTTP transmise, en attente de la réponse… 200 OK
+Taille : non indiqué [text/html]
+Enregistre : ‘download_file.php?session=1755282836’
+
+          download_     [<=>                 ]       0  --.-KB/s               download_file.php?s     [ <=>                ]      25  --.-KB/s    ds 0s      
+
+2025-08-15 20:34:28 (1,00 MB/s) - ‘download_file.php?session=1755282836’ enregistré [25]
+
